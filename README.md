@@ -61,11 +61,9 @@ maven-cafe-promo-analysis/
 │   ├── views.sql         # Abstraction layer: customers_clean, completed_offers, offer_results
 │   └── analysis.sql      # Business questions Q1 / Q2 / Q3
 │
-├── powerbi/
-│   └── maven_cafe_analysis.pbix
 │
 ├── presentation/
-│   └── maven_cafe_presentation.pdf
+│   └── maven cafe.pdf
 │
 └── README.md
 ```
